@@ -1,0 +1,19 @@
+{
+  "name": "clumsy-bird",
+  "description": "Clumsy Bird - A MelonJS port of the famous Flappy Bird game",
+  "main": "bower.json",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
